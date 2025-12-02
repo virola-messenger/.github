@@ -9,7 +9,7 @@ Virola Messenger is a self-hosted communication and collaboration system. It off
 - File sharing and storage
 - Screen sharing with remote control
 
-To explore all Virola features, visit [https://virola.io/product](https://virola.io/product)
+To explore all Virola features, visit [https://virola.io/features](https://virola.io/features)
 
 ## Why Virola?
 
