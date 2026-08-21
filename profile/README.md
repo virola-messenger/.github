@@ -22,7 +22,7 @@ A well-thought-out basic configuration and **ease of setup** make Virola a good 
 ## Getting Started
 
 1.	Install Virola Server (Linux, Windows, macOS). Use [installation guides](https://virola.io/how-to/run-virola-server) if needed
-2.	Connect via Virola Client (Available for all major desktop & mobile platforms)
+2.	Connect via Virola Client (Available for all major desktop & mobile platforms, also [open-source web client](https://github.com/virola-messenger/virola-web-client) is available)
    
 Get server and client app **installers for different operating systems** [here](https://virola.io/get-virola)
 
